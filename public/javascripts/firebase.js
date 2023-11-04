@@ -12,7 +12,7 @@
     authDomain: "fir-26ee9.firebaseapp.com",
     projectId: "fir-26ee9",
     storageBucket: "fir-26ee9.appspot.com",
-    messagingSenderId: "720989580005",
+    messagingSenderId: "7209895 80005",
     appId: "1:720989580005:web:aa332d26fcb91b1704820c",
     measurementId: "G-Q09JKRCZ2E"
   };
